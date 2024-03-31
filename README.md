@@ -3,6 +3,9 @@ These scripts are for batch processing the convertion of your CD-disc based game
 
 This gives explinations to each of the files in this respoitory.
 
+In no way do I claim to be a batch script wizard. A lot of this I had to fiddle around with to get to work. If you are more experience with batch scripts please let me know if you see ways to improve this. 
+Also if you run into issue please let me know. 
+
 ## CHD converter
 
 
