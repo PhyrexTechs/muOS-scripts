@@ -18,7 +18,7 @@ If conversion is successful it will delete all the old .cue/bin/iso/gdi files. I
 
 >[!IMPORTANT]
 >**Requires chdman.exe to be in the same folder with it**<br />
->**Requires games to be in thier own individual folders**<br />
+>**Requires games to be in their own individual folders**<br />
 >**If using for Dreamcast games only convert .gdi files and not .cue/bin as this can cause some emulators to not be able to read the files**<br />
 
 
@@ -34,7 +34,7 @@ If conversion is successful it will delete all the old .cue/bin/iso/gdi files. I
 
 ### MuOS m3u creator.bat
 >[!IMPORTANT]
->Requires games to be in thier own individual folders
+>Requires games to be in their own individual folders
 + When you run this it will hide all folders in the current directory then recreate all the .m3u files pointing to the .chd files the new hidden folders.
 
 <br />
