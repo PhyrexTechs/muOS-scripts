@@ -17,7 +17,6 @@ If conversion is successful it will delete all the old .cue/bin/iso/gdi files. I
 
 >[!IMPORTANT]
 >**Requires chdman.exe to be in the same folder with it**<br />
->**Requires games to be in their own individual folders**<br />
 >**If using for Dreamcast games only convert .gdi files and not .cue/bin as this can cause some emulators to not be able to read the files**<br />
 
 
