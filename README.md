@@ -8,7 +8,7 @@ In no way do I claim to be a batch script wizard. A lot of this I had to fiddle 
 ## CHD converter
 
 
-### Cue_bin_iso_gdi to CHD.bat
+### Convert to CHD.bat
 
 + This will search for .cue/bin/iso/gdi files in subfolders and use chdman to convert them into CHD files. 
 If conversion is successful it will delete all the old .cue/bin/iso/gdi files. If you do not want it to delete the files when done remove the bottem line of this script. 
