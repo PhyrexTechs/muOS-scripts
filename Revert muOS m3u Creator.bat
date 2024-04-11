@@ -1,6 +1,6 @@
 @echo off
 echo ----------------------------------
-echo Revert MuOS .m3u Creator / Unhind folders
+echo Revert muOS .m3u Creator / Unhind folders
 echo Created by: PhyrexTechs          
 echo ----------------------------------
 
