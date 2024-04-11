@@ -1,6 +1,6 @@
 @echo off
 echo ----------------------------------
-echo MuOS .m3u creator & hide directories
+echo muOS .m3u creator & hide directories
 echo Created by: PhyrexTechs          
 echo ----------------------------------
 
