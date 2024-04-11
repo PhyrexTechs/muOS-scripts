@@ -37,7 +37,7 @@ If conversion is successful it will delete all the old .cue/bin/iso/gdi files. I
 
 <br />
 
-### Revert MuOS m3u Creator.bat
+### Revert muOS m3u Creator.bat
 
 + This will revert all the changes made by "MuOS m3u creator.bat" by unhiding the folders and recreating the .m3u files.
 
