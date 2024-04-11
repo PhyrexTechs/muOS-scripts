@@ -1,4 +1,4 @@
-# MuOS Scripts
+# muOS Scripts
 These scripts are for batch processing the convertion of your CD-disc based games into CHD files and for createing M3U files to handle multi-disc games. 
 
 This gives explinations to each of the files in this respoitory.
@@ -30,7 +30,7 @@ If conversion is successful it will delete all the old .cue/bin/iso/gdi files. I
 ## m3u creator
 
 
-### MuOS m3u creator.bat
+### muOS m3u creator.bat
 >[!IMPORTANT]
 >Requires games to be in their own individual folders
 + When you run this it will hide all folders in the current directory then recreate all the .m3u files pointing to the .chd files the new hidden folders.
